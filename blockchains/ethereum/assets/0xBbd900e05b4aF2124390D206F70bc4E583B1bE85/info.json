@@ -1,0 +1,11 @@
+{
+    "name": "MintySwap",
+    "symbol": "MINTYS",
+    "type": "ERC20",
+    "decimals": 9,
+    "description": "-",
+    "website": "https://mintyswap.com/",
+    "explorer": "https://etherscan.io/token/0xBbd900e05b4aF2124390D206F70bc4E583B1bE85",
+    "status": "abandoned",
+    "id": "0xBbd900e05b4aF2124390D206F70bc4E583B1bE85"
+}
